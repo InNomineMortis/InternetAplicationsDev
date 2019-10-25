@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f99704f0-004e-4aa8-8840-202973a3fce0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/lab_python_oop/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/lab_python_oop/color.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/lab_python_oop/figure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/lab_python_oop/rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/lab_python_oop/square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Лаб1/Отчет РИП №1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Отчет РИП №1.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,7 +49,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572002864626</updated>
-      <workItem from="1572002865802" duration="8999000" />
+      <workItem from="1572002865802" duration="9514000" />
+      <workItem from="1572024963791" duration="78000" />
     </task>
     <servers />
   </component>
@@ -68,7 +62,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
