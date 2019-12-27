@@ -2,8 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f99704f0-004e-4aa8-8840-202973a3fce0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/blog/helpme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/blog/helpmeagain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/migrations/0002_comment_rating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/migrations/0003_topicstarter_usermodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/migrations/0004_auto_20191220_1524.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/migrations/0005_auto_20191220_1525.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/static/js/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/lab/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/templates/comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4_5_6/templates/registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/plot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/src/components/ListRender/ListRender.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/src/components/ListRender/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/src/components/ListRender/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/src/components/UserRepositories/UserRepositories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/src/components/UserRepositories/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/src/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/InternetAplicationsDev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/InternetAplicationsDev.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,10 +54,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -24,8 +89,19 @@
   <component name="ProjectId" id="1Sh5D8MHBDqausHxyxXq6XSXI5Z" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab4_5_6/lab" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab4_5_6/lab" />
+      <recent name="$PROJECT_DIR$/Lab4_5_6" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,6 +127,7 @@
       <updated>1572002864626</updated>
       <workItem from="1572002865802" duration="9514000" />
       <workItem from="1572024963791" duration="78000" />
+      <workItem from="1577440921782" duration="5064000" />
     </task>
     <servers />
   </component>
