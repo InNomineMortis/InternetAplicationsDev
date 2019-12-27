@@ -13,7 +13,7 @@ try:
 
         # Вставка записи
         sql_request = "INSERT INTO users (name, age, email) VALUES (%s, %s, %s)"
-        cursor.execute(sql_request, ('Рома', '3', 'rauger474@mail.ru'))
+        cursor.execute(sql_request, ('Дмитрий', '3', 'whyme@mail.ru'))
 
     # Зафиксировать изменения
     connection.commit()
